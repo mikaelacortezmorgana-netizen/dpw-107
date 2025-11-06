@@ -7,7 +7,7 @@ body {
 
 .titulo{
     text-align:center;
-    background-color:
+}
 #contenedor-productos {
     display: flex;
     flex-wrap: wrap;
@@ -66,4 +66,5 @@ body {
     margin-bottom: 15px;
 
 }
+
 
