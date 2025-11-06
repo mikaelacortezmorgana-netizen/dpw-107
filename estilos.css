@@ -5,7 +5,9 @@ body {
     padding: 0;
 }
 
-/* Contenedor principal de productos */
+.titulo{
+    text-align:center;
+    background-color:
 #contenedor-productos {
     display: flex;
     flex-wrap: wrap;
@@ -13,7 +15,7 @@ body {
     padding: 20px;
 }
 
-/* Estilos para cada tarjeta de producto */
+
 .productos-card {
     background-color: brown;
     border-radius: 8px;
@@ -56,7 +58,7 @@ body {
     background-color: #45a049;
 }
 
-/* Para imágenes (si las tienes) */
+
 .productos-card img {
     width: 100%;
     height: auto;
@@ -64,3 +66,4 @@ body {
     margin-bottom: 15px;
 
 }
+
