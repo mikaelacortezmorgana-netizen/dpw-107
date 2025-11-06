@@ -5,9 +5,8 @@ body {
     padding: 0;
 }
 
-.titulo{
-    text-align:center;
-}
+
+
 #contenedor-productos {
     display: flex;
     flex-wrap: wrap;
@@ -66,5 +65,6 @@ body {
     margin-bottom: 15px;
 
 }
+
 
 
