@@ -1,12 +1,11 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color:  cyan;
+    background-color: cyan;
     margin: 0;
     padding: 0;
 }
 
-
-
+/* Contenedor principal de productos */
 #contenedor-productos {
     display: flex;
     flex-wrap: wrap;
@@ -14,7 +13,7 @@ body {
     padding: 20px;
 }
 
-
+/* Estilos para cada tarjeta de producto */
 .productos-card {
     background-color: brown;
     border-radius: 8px;
@@ -32,12 +31,12 @@ body {
 
 .productos-card h2 {
     font-size: 1.5em;
-    color: #333;
+    color: dimgrey;
     margin-bottom: 10px;
 }
 
 .productos-card p {
-    color: #666;
+    color: lightslategrey;
     font-size: 1em;
     margin-bottom: 15px;
 }
@@ -57,14 +56,14 @@ body {
     background-color: #45a049;
 }
 
-
+/* Para imágenes (si las tienes) */
 .productos-card img {
     width: 100%;
     height: auto;
     border-radius: 5px;
     margin-bottom: 15px;
-
 }
+
 
 
 
