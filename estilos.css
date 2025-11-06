@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #1a1aee;
+    background-color:  cyan;
     margin: 0;
     padding: 0;
 }
@@ -15,9 +15,9 @@ body {
 
 /* Estilos para cada tarjeta de producto */
 .productos-card {
-    background-color: #f1119b;
+    background-color: brown;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px black;
     width: 250px;
     margin: 10px;
     padding: 20px;
@@ -62,4 +62,5 @@ body {
     height: auto;
     border-radius: 5px;
     margin-bottom: 15px;
+
 }
